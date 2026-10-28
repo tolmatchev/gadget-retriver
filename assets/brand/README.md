@@ -1,4 +1,4 @@
-# Device Name Catalog branding
+# Gadget Retriver branding
 
 The project mark is a friendly golden retriever holding a teal phone.
 
