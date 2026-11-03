@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+.jqwik-database
+.DS_Store

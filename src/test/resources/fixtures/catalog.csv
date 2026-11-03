@@ -1,0 +1,4 @@
+identifier,marketingName,source,sourceRevision
+"iphone14,2",iPhone 13 Pro,https://example.com/apple,fixture-v1
+shared-1,Example Device A,https://example.com/vendor-a,fixture-v1
+shared-1,Example Device B,https://example.com/vendor-b,fixture-v1
