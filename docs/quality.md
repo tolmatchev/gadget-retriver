@@ -1,7 +1,7 @@
 # Build and quality policy
 
 Use a full OpenJDK 21 distribution, version 21.0.8 or newer within Java 21.
-CI pins Temurin 21.0.8+9; the initial local verification uses Corretto 21.0.8.
+CI pins Temurin 21.0.8+9.0.LTS; the initial local verification uses Corretto 21.0.8.
 Set `JAVA_HOME` to that JDK before invoking Maven. Java 17 and Java 25 builds
 are rejected, rather than silently using a different analysis toolchain.
 The compiler uses `--release 21`. Update the CI JDK pin and minimum version
