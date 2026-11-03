@@ -1,0 +1,20 @@
+[
+  {
+    "identifier": "iphone14,2",
+    "marketingName": "iPhone 13 Pro",
+    "source": "https://example.com/apple",
+    "sourceRevision": "fixture-v1"
+  },
+  {
+    "identifier": "shared-1",
+    "marketingName": "Example Device A",
+    "source": "https://example.com/vendor-a",
+    "sourceRevision": "fixture-v1"
+  },
+  {
+    "identifier": "shared-1",
+    "marketingName": "Example Device B",
+    "source": "https://example.com/vendor-b",
+    "sourceRevision": "fixture-v1"
+  }
+]
